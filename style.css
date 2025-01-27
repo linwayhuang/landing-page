@@ -24,7 +24,7 @@ a {
 
 .header {
     background: #1f2937;
-    padding-left: 200px;
+    padding-left: 200px; /*Can't combine paddings bc it's not valid for some reasons*/
     padding-right: 200px;
     display: flex;
     justify-content: space-between;
